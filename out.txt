@@ -1,0 +1,14 @@
+User_1 : Hey!
+User_2 : Hey!
+User_2 : I want a merge. Will somebody review it for me?
+User_4 : Hey!
+User_4 : You are such a jnr! Are you afraid of the Team Lead?
+User_3 : Hey!
+User_3 : I want a merge. Will somebody review it for me?
+User_3 : AAAAaaa! No! No TL code review, please!
+User_5 : Hey!
+User_5 : I have a non-fallen prod
+User_5 : Of course, baby. Be ready to suffer User_3
+User_7 : Hey!
+User_7 : Deadline is coming soon!
+User_7 : When to expect release?
